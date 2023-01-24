@@ -44,8 +44,8 @@
         </div>
       {%- endif %}
 
-      {{ partial('_custom/google_adsense.swig') }}
-      
+      {{ partial('_custom/google-ad-sidebar.swig') }}
+
     </div>
   </aside>
   <div id="sidebar-dimmer"></div>
