@@ -1,7 +1,12 @@
 
 
+
+// start google ad >>>>>>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1960396123993710"
      crossorigin="anonymous"></script>
+
+// end google ad <<<<<<
+
 
 
 <meta charset="UTF-8">
