@@ -1,3 +1,9 @@
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1960396123993710"
+     crossorigin="anonymous"></script>
+
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
@@ -59,6 +65,3 @@
 {%- endif %}
 
 {{ next_config() }}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1960396123993710"
-     crossorigin="anonymous"></script>
